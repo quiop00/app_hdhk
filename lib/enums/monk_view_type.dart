@@ -1,0 +1,1 @@
+enum MonkViewType { information, album }
